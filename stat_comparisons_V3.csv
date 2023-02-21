@@ -1,0 +1,13 @@
+nominator,denominator,ratio.name
+B2_0,B2_0,B2_0.0
+B2_30,B2_0,B2_30.0
+B2_90,B2_0,B2_90.0
+B2_270,B2_0,B2_270.0
+Cyt_0,Cyt_0,Cyt_0.0
+Cyt_30,Cyt_0,Cyt_30.0
+Cyt_90,Cyt_0,Cyt_90.0
+Cyt_270,Cyt_0,Cyt_270.0
+B2_0.0,Cyt_0.0,t0
+B2_30.0,Cyt_30.0,t30
+B2_90.0,Cyt_90.0,t90
+B2_270.0,Cyt_270.0,t270
